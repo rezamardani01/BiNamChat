@@ -11,9 +11,6 @@
 # Please give proper credit to the original author
 # when using or redistributing this project.
 # ==================================================
-# Secrets and local configuration
-config.py
-
 # Local runtime data
 data/*.db
 data/*.log*
